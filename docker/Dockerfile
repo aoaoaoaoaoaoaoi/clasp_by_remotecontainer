@@ -7,3 +7,4 @@ apt-get install sudo && \
 npm install -D @google/clasp && \
 npm install -D @types/google-apps-script
 
+ENV PATH $PATH:/work/node_modules/.bin
